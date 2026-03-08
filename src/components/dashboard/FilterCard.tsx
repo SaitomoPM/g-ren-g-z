@@ -68,7 +68,7 @@ const FilterCard = () => {
               <button className="saglik-btn-ghost p-2" title="SWOT raporu" aria-label="SWOT raporu">
                 <BarChart3 className="w-4 h-4" />
               </button>
-              <button className="saglik-btn-ghost p-2 text-purple-600" title="Yapay zeka önerileri" aria-label="Yapay zeka önerileri">
+              <button className="saglik-btn-ghost p-2 text-saglik-info" title="Yapay zeka önerileri" aria-label="Yapay zeka önerileri">
                 <Sparkles className="w-4 h-4" />
               </button>
             </div>
